@@ -1,0 +1,5 @@
+export(byID.interactions)
+export(byTime.entries)
+export(mean.interactions)
+export(plot.interactions)
+export(sum.interactions)

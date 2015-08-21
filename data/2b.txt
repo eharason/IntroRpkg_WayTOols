@@ -1,0 +1,69 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Map moved to position: lat/lng: (51.94720574654645,7.6224299892783165) at zoom level: 14.0 at time: Fri May 22 11:19:12 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.946811850949985,7.6253391802310935) at zoom level: 14.911145 at time: Fri May 22 11:21:16 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94623112762768,7.624294459819793) at zoom level: 14.911145 at time: Fri May 22 11:21:53 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94624042752662,7.624294459819793) at zoom level: 14.911145 at time: Fri May 22 11:21:53 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.9462497274236,7.624294459819793) at zoom level: 14.911145 at time: Fri May 22 11:21:54 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94659568222173,7.623142786324024) at zoom level: 15.480853 at time: Fri May 22 11:22:28 GMT+02:00 2015\
+Clicked on marker: Wasserturm at zoom level: 15.480853 at time: Fri May 22 11:22:30 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94616871492278,7.621360458433628) at zoom level: 15.480853 at time: Fri May 22 11:24:47 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94520688695849,7.623305059969426) at zoom level: 15.480853 at time: Fri May 22 11:24:48 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945981269621385,7.621156610548495) at zoom level: 15.480853 at time: Fri May 22 11:24:49 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94942480620159,7.619863115251065) at zoom level: 14.319869 at time: Fri May 22 11:25:48 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94772198013324,7.618533745408059) at zoom level: 15.284787 at time: Fri May 22 11:25:51 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94935165213898,7.617694213986397) at zoom level: 16.280058 at time: Fri May 22 11:27:36 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94946262308545,7.616675980389118) at zoom level: 15.743841 at time: Fri May 22 11:27:38 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94895157583263,7.619537226855755) at zoom level: 15.263986 at time: Fri May 22 11:27:54 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.948630644273614,7.620539031922817) at zoom level: 15.263627 at time: Fri May 22 11:27:54 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94469599788187,7.615097835659981) at zoom level: 15.263627 at time: Fri May 22 11:30:13 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944860508106494,7.615003287792205) at zoom level: 15.263627 at time: Fri May 22 11:30:13 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94642291181976,7.614710256457329) at zoom level: 15.265812 at time: Fri May 22 11:31:08 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94630428678045,7.615041509270669) at zoom level: 15.884677 at time: Fri May 22 11:31:09 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.9455611165024,7.615041509270669) at zoom level: 15.884677 at time: Fri May 22 11:31:11 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945556363148974,7.615033797919751) at zoom level: 15.884677 at time: Fri May 22 11:31:11 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945558223156894,7.615016028285027) at zoom level: 15.884677 at time: Fri May 22 11:31:25 GMT+02:00 2015\
+Clicked on marker: WL Bank at zoom level: 15.884677 at time: Fri May 22 11:40:13 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94851119845782,7.619482241570949) at zoom level: 15.884677 at time: Fri May 22 11:40:17 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94851119845782,7.6194899529218665) at zoom level: 15.884677 at time: Fri May 22 11:40:17 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94718838710722,7.617855481803417) at zoom level: 15.884677 at time: Fri May 22 11:40:18 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94593724982841,7.615786828100682) at zoom level: 15.884677 at time: Fri May 22 11:40:18 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94585148344103,7.615755982697009) at zoom level: 15.884677 at time: Fri May 22 11:40:18 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945092185427264,7.615515924990177) at zoom level: 15.884677 at time: Fri May 22 11:40:19 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944905975650094,7.6154230535030365) at zoom level: 15.884677 at time: Fri May 22 11:40:19 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94497500355998,7.615378461778163) at zoom level: 15.884677 at time: Fri May 22 11:40:19 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94436036208502,7.615263126790524) at zoom level: 16.726143 at time: Fri May 22 11:41:33 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94473381875326,7.615643665194511) at zoom level: 16.423635 at time: Fri May 22 11:41:34 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94451081982178,7.616136856377126) at zoom level: 16.242346 at time: Fri May 22 11:41:36 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944841081051074,7.616325952112675) at zoom level: 15.995029 at time: Fri May 22 11:41:37 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945183740006435,7.616240456700325) at zoom level: 15.710374 at time: Fri May 22 11:41:38 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94581986350264,7.6164285466074935) at zoom level: 15.416881 at time: Fri May 22 11:41:40 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.946979453329156,7.616038955748081) at zoom level: 14.933796 at time: Fri May 22 11:41:41 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945023571037716,7.618784196674824) at zoom level: 16.011204 at time: Fri May 22 11:41:43 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945204820266824,7.617512829601765) at zoom level: 15.443793 at time: Fri May 22 11:41:44 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94552184965465,7.620200738310815) at zoom level: 15.443793 at time: Fri May 22 11:43:41 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945299681315994,7.621261551976204) at zoom level: 16.204777 at time: Fri May 22 11:44:55 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944665823830476,7.618539780378342) at zoom level: 16.204777 at time: Fri May 22 11:44:56 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944665823830476,7.618527375161648) at zoom level: 16.204777 at time: Fri May 22 11:44:56 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944665823830476,7.618521340191365) at zoom level: 16.204777 at time: Fri May 22 11:44:56 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945601829987176,7.621355094015598) at zoom level: 16.204777 at time: Fri May 22 11:44:59 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945204820266824,7.620258741080762) at zoom level: 16.204777 at time: Fri May 22 11:45:00 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945197173506855,7.620258741080762) at zoom level: 16.204777 at time: Fri May 22 11:45:00 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945028944457555,7.620178274810314) at zoom level: 16.204777 at time: Fri May 22 11:45:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94477659970049,7.619663290679455) at zoom level: 16.204777 at time: Fri May 22 11:45:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94468111753029,7.619346790015697) at zoom level: 16.204777 at time: Fri May 22 11:45:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94465073679716,7.619155012071132) at zoom level: 16.204777 at time: Fri May 22 11:45:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944658383650285,7.619155012071132) at zoom level: 16.204777 at time: Fri May 22 11:45:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94466210374052,7.618882097303867) at zoom level: 16.204777 at time: Fri May 22 11:45:02 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94487724843473,7.618443556129932) at zoom level: 15.685315 at time: Fri May 22 11:45:02 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94395259428026,7.61916272342205) at zoom level: 15.685315 at time: Fri May 22 11:46:08 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94395259428026,7.619026936590671) at zoom level: 15.685315 at time: Fri May 22 11:46:09 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944025137125834,7.622675746679307) at zoom level: 16.72328 at time: Fri May 22 11:49:25 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94387302435747,7.621692046523094) at zoom level: 16.72328 at time: Fri May 22 11:49:27 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.943865377370436,7.62167125940323) at zoom level: 16.72328 at time: Fri May 22 11:49:27 GMT+02:00 2015}

@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Map moved to position: lat/lng: (51.94720574654645,7.6224299892783165) at zoom level: 14.0 at time: Wed Jun 17 16:36:48 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.948139633142226,7.6230438798666) at zoom level: 14.0 at time: Wed Jun 17 16:37:43 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94813095360419,7.623072378337383) at zoom level: 14.0 at time: Wed Jun 17 16:37:43 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94774305920064,7.622214071452618) at zoom level: 14.0 at time: Wed Jun 17 16:37:43 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.947332428917576,7.622532919049263) at zoom level: 14.2873535 at time: Wed Jun 17 16:37:44 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.9468345837385,7.623486444354058) at zoom level: 15.509134 at time: Wed Jun 17 16:37:46 GMT+02:00 2015\
+Clicked on marker: Wasserturm at zoom level: 15.509134 at time: Wed Jun 17 16:37:50 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94681639750863,7.623466998338699) at zoom level: 15.509134 at time: Wed Jun 17 16:42:08 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94686475633091,7.621249817311763) at zoom level: 15.509134 at time: Wed Jun 17 16:42:11 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.946883149202634,7.621249817311763) at zoom level: 15.509134 at time: Wed Jun 17 16:42:11 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94687570939026,7.618183717131616) at zoom level: 15.509134 at time: Wed Jun 17 16:46:09 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.946863516361766,7.618193440139293) at zoom level: 15.509134 at time: Wed Jun 17 16:46:09 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.946857523177066,7.618203163146972) at zoom level: 15.509134 at time: Wed Jun 17 16:46:09 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94680110453687,7.615796886384488) at zoom level: 15.509134 at time: Wed Jun 17 16:46:46 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94680110453687,7.615746930241585) at zoom level: 15.509134 at time: Wed Jun 17 16:46:47 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94638157908908,7.6142264530062675) at zoom level: 16.53267 at time: Wed Jun 17 16:46:54 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94503824460575,7.613504938781261) at zoom level: 16.53267 at time: Wed Jun 17 16:46:55 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.945833710145074,7.61388648301363) at zoom level: 16.53267 at time: Wed Jun 17 16:46:56 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94666966742954,7.614481933414935) at zoom level: 16.53267 at time: Wed Jun 17 16:46:56 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94677341184503,7.614641860127449) at zoom level: 16.53267 at time: Wed Jun 17 16:46:57 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.948994146105186,7.617498748004437) at zoom level: 16.53267 at time: Wed Jun 17 16:46:58 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.95027164878222,7.617167495191097) at zoom level: 16.53267 at time: Wed Jun 17 16:46:59 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94944712436641,7.616896592080592) at zoom level: 16.53267 at time: Wed Jun 17 16:46:59 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94944712436641,7.6168473064899445) at zoom level: 16.53267 at time: Wed Jun 17 16:46:59 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.949426666049085,7.6168908923864365) at zoom level: 16.53267 at time: Wed Jun 17 16:47:00 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94942377295293,7.6168908923864365) at zoom level: 16.53267 at time: Wed Jun 17 16:47:00 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94941778011036,7.616954930126668) at zoom level: 16.53267 at time: Wed Jun 17 16:47:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.949435965285375,7.616974376142024) at zoom level: 16.53267 at time: Wed Jun 17 16:47:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.949435965285375,7.616959623992442) at zoom level: 16.53267 at time: Wed Jun 17 16:47:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.949454150453064,7.616959623992442) at zoom level: 16.53267 at time: Wed Jun 17 16:47:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94948452793258,7.617018632590771) at zoom level: 16.53267 at time: Wed Jun 17 16:47:01 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.949584959453134,7.617097422480583) at zoom level: 16.53267 at time: Wed Jun 17 16:47:02 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.949764743712166,7.617230862379074) at zoom level: 16.53267 at time: Wed Jun 17 16:47:02 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94977982902526,7.617230862379074) at zoom level: 16.53267 at time: Wed Jun 17 16:47:02 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.949791814612865,7.617230862379074) at zoom level: 16.53267 at time: Wed Jun 17 16:47:03 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.95009661942809,7.617765963077546) at zoom level: 16.53267 at time: Wed Jun 17 16:47:03 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94964736740402,7.61719599366188) at zoom level: 16.53267 at time: Wed Jun 17 16:47:08 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94793194373526,7.615228593349457) at zoom level: 16.53267 at time: Wed Jun 17 16:47:10 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.9460939022283,7.613594122231007) at zoom level: 16.53267 at time: Wed Jun 17 16:47:21 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944182829573464,7.612388804554939) at zoom level: 16.53267 at time: Wed Jun 17 16:47:21 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94238411073179,7.610818371176719) at zoom level: 16.53267 at time: Wed Jun 17 16:47:22 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.944365322238234,7.613712474703789) at zoom level: 16.53267 at time: Wed Jun 17 16:47:24 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94850561880123,7.6169777289032945) at zoom level: 16.53267 at time: Wed Jun 17 16:47:26 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94747068382124,7.615341581404209) at zoom level: 16.53267 at time: Wed Jun 17 16:49:56 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.9466072553349,7.614677399396896) at zoom level: 17.561626 at time: Wed Jun 17 16:51:16 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.946956927275146,7.616017833352088) at zoom level: 15.869481 at time: Wed Jun 17 16:51:54 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94851161176572,7.6176586747169495) at zoom level: 14.54272 at time: Wed Jun 17 16:51:57 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94566734348661,7.615197747945786) at zoom level: 15.962393 at time: Wed Jun 17 16:53:00 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94531807482953,7.616923749446869) at zoom level: 15.962393 at time: Wed Jun 17 16:56:23 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94521970044468,7.619480900466442) at zoom level: 15.962393 at time: Wed Jun 17 17:01:53 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94521970044468,7.619524821639061) at zoom level: 15.962393 at time: Wed Jun 17 17:01:54 GMT+02:00 2015\
+Map moved to position: lat/lng: (51.94449903949521,7.6202815398573875) at zoom level: 16.952993 at time: Wed Jun 17 17:02:48 GMT+02:00 2015}

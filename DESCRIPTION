@@ -1,0 +1,13 @@
+Package: WayTOols
+Type: Package
+Title: WayTOols for interpreting interactions with the mobile app "WayTO"
+Version: 0.1
+Date: 2015-08-12
+Author: Emily Harason
+Maintainer: Emily Harason <e_hara01@uni-muenster.de>
+Description: WayTOols was developed for researchers dealing with data from an experiment carried out with the mobile application "WayTO" from the University of Muenster. This package contains useful functions for interpreting the data "logfiles" that are created each time a user of the WayTO mobile application interacts with the app.
+Depends: R (>= 3.1.0)
+License: CC0
+LazyData: true
+Suggests: knitr, stringr, methods, ggmap, ggplot2, dplyr
+VignetteBuilder: knitr
